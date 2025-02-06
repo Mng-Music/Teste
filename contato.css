@@ -25,6 +25,7 @@ h1 {
 .alinhar {
     display: flex;
     alien-items: center;
+    gap: 1.0rem;
 }
 .metade {
     border: solid 0.2rem black;
