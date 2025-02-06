@@ -29,6 +29,7 @@ h1 {
 .metade {
     border: solid 0.2rem black;
     border-radius: 1.0rem;
+    padding: 2.0rem;
 }
 #Um {
     margin-bottom: 4.0rem;
